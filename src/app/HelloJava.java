@@ -5,6 +5,7 @@ import java.awt.image.BufferedImage;
 
 /**
  * Created by Joey on 6/22/2018.
+ * You can find the original example here: https://www.mkyong.com/java/ascii-art-java-example/
  */
 public class HelloJava {
     public static void main(String args[]) {
