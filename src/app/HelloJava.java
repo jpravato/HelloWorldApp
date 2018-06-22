@@ -11,6 +11,7 @@ public class HelloJava {
     public static void main(String args[]) {
         displayStringAsAsciiArt("Hello World");
         displayStringAsAsciiArt("Trolololo");
+        displayStringAsAsciiArt("Teh Javas");
     }
 
     public static void displayStringAsAsciiArt(String str) {
