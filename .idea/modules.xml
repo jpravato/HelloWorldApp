@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/Github Testing/HelloWorldApp/HelloWorldApp.iml" filepath="D:/Github Testing/HelloWorldApp/HelloWorldApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SnakeGame/SnakeGame.iml" filepath="$PROJECT_DIR$/SnakeGame/SnakeGame.iml" />
+    </modules>
+  </component>
+</project>
